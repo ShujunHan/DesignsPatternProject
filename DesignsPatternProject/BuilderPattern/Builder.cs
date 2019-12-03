@@ -11,6 +11,5 @@ namespace DesignsPatternProject
         public abstract void BuildPartB();
 
         public abstract Product GetRestult();
-
     }
 }
