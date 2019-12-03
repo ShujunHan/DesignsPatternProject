@@ -21,7 +21,7 @@ namespace DesignsPatternProject
             Product productA = builderA.GetRestult();//给产品角色赋值   
             productA.Show();//显示出来
 
-
+            //同上
             director.Build(builderB);
             Product productB = builderB.GetRestult();
             productB.Show();
