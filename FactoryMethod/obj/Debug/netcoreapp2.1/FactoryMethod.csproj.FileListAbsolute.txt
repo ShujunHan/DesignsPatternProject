@@ -1,0 +1,10 @@
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.deps.json
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.json
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.runtimeconfig.dev.json
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.dll
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\bin\Debug\netcoreapp2.1\FactoryMethod.pdb
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfoInputs.cache
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfo.cs
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.dll
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.pdb
