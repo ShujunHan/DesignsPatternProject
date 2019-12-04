@@ -1,0 +1,4 @@
+E:\VisualStudioProject\DesignsPatternProject\DesignsPatternProject\obj\Debug\netcoreapp2.1\BuilderPattern.csprojAssemblyReference.cache
+E:\VisualStudioProject\DesignsPatternProject\DesignsPatternProject\obj\Debug\netcoreapp2.1\BuilderPattern.csproj.CoreCompileInputs.cache
+E:\VisualStudioProject\DesignsPatternProject\DesignsPatternProject\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+E:\VisualStudioProject\DesignsPatternProject\DesignsPatternProject\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs

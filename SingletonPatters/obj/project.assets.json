@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudioProject\\DesignsPatternProject\\DesignsPatternProject\\BuilderPattern.csproj",
-      "projectName": "BuilderPattern",
-      "projectPath": "E:\\VisualStudioProject\\DesignsPatternProject\\DesignsPatternProject\\BuilderPattern.csproj",
+      "projectUniqueName": "E:\\VisualStudioProject\\DesignsPatternProject\\SingletonPatters\\SingletonPatter.csproj",
+      "projectName": "SingletonPatter",
+      "projectPath": "E:\\VisualStudioProject\\DesignsPatternProject\\SingletonPatters\\SingletonPatter.csproj",
       "packagesPath": "C:\\Users\\17568\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudioProject\\DesignsPatternProject\\DesignsPatternProject\\obj\\",
+      "outputPath": "E:\\VisualStudioProject\\DesignsPatternProject\\SingletonPatters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
