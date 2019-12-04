@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryMethod
 {
-    class HUAWEIFactory : MobileFactory
+    class HUAWEIFactory : MobileFactory//华为制造实例的工厂
     {
         public Mobile ProductMobile()
         {

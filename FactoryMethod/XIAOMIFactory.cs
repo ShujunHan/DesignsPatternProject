@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryMethod
 {
-    class XIAOMIFactory : MobileFactory
+    class XIAOMIFactory : MobileFactory//创造小米实例的工厂
     {
         public Mobile ProductMobile()
         {

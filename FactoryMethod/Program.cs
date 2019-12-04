@@ -6,17 +6,19 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
+            //创造工厂和产品
             Mobile mobile;
             MobileFactory mobileFactory;
+            
+            
+            mobileFactory = new HUAWEIFactory();//创造华为工厂
+            mobile = mobileFactory.ProductMobile();//生产产品
+            mobile.Call();//产品实现功能
 
-            mobileFactory = new HUAWEIFactory();
-            mobile = mobileFactory.ProductMobile();
-            mobile.Call();
 
-
-            mobileFactory = new XIAOMIFactory();
-            mobile = mobileFactory.ProductMobile();
-            mobile.Call();
+            mobileFactory = new XIAOMIFactory();//创造小米工厂
+            mobile = mobileFactory.ProductMobile();//生产产品
+            mobile.Call();//产品实现功能
             Console.ReadKey();
         }
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FactoryMethod
 {
-    interface Mobile
+    interface Mobile//定义产品主要接口
     {
         void Call();
     }
