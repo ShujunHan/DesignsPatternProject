@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace SingletonPatters
+namespace SingletonPatter
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(Singleton.GetInstace() == Singleton.GetInstace()); ;
+            Console.ReadKey();
         }
     }
 }
