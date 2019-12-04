@@ -21,11 +21,19 @@ namespace DesignsPatternProject
         //    Product productA = builderA.GetRestult();//给产品角色赋值   
         //    productA.Show();//显示出来
 
+<<<<<<< HEAD
 
         //    director.Build(builderB);
         //    Product productB = builderB.GetRestult();
         //    productB.Show();
         //    Console.ReadKey();
+=======
+            //同上
+            director.Build(builderB);
+            Product productB = builderB.GetRestult();
+            productB.Show();
+            Console.ReadKey();
+>>>>>>> 9a5002e1388c2f4364a304ff6665b275534a4142
 
         //}
         #endregion
