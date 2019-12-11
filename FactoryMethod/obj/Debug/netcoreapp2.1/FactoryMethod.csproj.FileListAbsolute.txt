@@ -8,3 +8,4 @@ E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2
 E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.AssemblyInfo.cs
 E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.dll
 E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.pdb
+E:\VisualStudioProject\DesignsPatternProject\FactoryMethod\obj\Debug\netcoreapp2.1\FactoryMethod.csprojAssemblyReference.cache

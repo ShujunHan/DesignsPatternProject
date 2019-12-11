@@ -19,6 +19,7 @@ namespace FactoryMethod
             mobileFactory = new XIAOMIFactory();//创造小米工厂
             mobile = mobileFactory.ProductMobile();//生产产品
             mobile.Call();//产品实现功能
+
             Console.ReadKey();
         }
     }
